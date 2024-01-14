@@ -9,6 +9,9 @@ d) Preprocessing
 # Overview
 This project involves using linear regression to analyse advertising data provided in CSV format. The goal is to build a predictive model that can help predict the sales on different advertising platforms.
 
+# What is linear regression?
+Linear regression is a statistical method used for modeling the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data.
+
 # Requirements
 I’ve used the following software and libraries to run the project. 
 1. Python
