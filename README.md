@@ -1,4 +1,4 @@
-# Advertising.csv-(project-1)
+# Linear Regression-(project-1)
 
 # Contents
 a) Overview
